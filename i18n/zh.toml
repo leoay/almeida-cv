@@ -1,0 +1,23 @@
+[profile]
+other = "简介"
+
+[experience]
+other = "工作经历"
+
+[education]
+other = "教育背景"
+
+[references]
+other = "参考"
+
+[skills]
+other = "技能介绍"
+
+[languages]
+other = "外语水平"
+
+[diplomas]
+other = "奖励与证书"
+
+[interests]
+other = "兴趣爱好"
